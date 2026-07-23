@@ -1,0 +1,21 @@
+{
+  "name": "com.huycv.leveldesign",
+  "version": "1.0.0",
+  "displayName": "Level Design (Huycv)",
+  "description": "Editor window for authoring grid-based Block Loop levels: painting colors, obstacles, garages, connections and hidden cubes, procedural generation, statistics, and JSON/screenshot export.",
+  "unity": "6000.3",
+  "documentationUrl": "https://github.com/huycv18/BlockLoopLevelEditor",
+  "changelogUrl": "https://github.com/huycv18/BlockLoopLevelEditor/blob/main/Packages/com.huycv.leveldesign/CHANGELOG.md",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  },
+  "keywords": [
+    "editor",
+    "level-design",
+    "tool"
+  ],
+  "author": {
+    "name": "huycv18",
+    "url": "https://github.com/huycv18"
+  }
+}
