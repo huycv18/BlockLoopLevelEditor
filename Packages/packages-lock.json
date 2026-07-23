@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.huycv.leveldesign": {
+      "version": "file:com.huycv.leveldesign",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.2"
+      }
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.10",
       "depth": 0,
