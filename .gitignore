@@ -45,6 +45,10 @@ sysinfo.txt
 *.unitypackage
 *.app
 
+# Packaged release artifacts (rebuilt from Packages/, attach to a GitHub Release instead)
+/Dist/
+*.tgz
+
 # Crashlytics generated file
 crashlytics-build.properties
 
