@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 218665d43d8ac554f84f9937c8d3527b, type: 3}
+  m_Name: ColorConfig
+  m_EditorClassIdentifier: Runtime.Game::Runtime.Game.ColorConfigDataScriptableObject
+  normalMaterial: {fileID: 2100000, guid: bbe3a220b48e1cb409b9c7cb91b32aa0, type: 2}
+  normalFlipMaterial: {fileID: 0}
+  hiddenMaterial: {fileID: 2100000, guid: 7de53f2d4197c1741ac925fe9313b904, type: 2}
+  colorConfigDatas:
+  - materialId: 0
+    color: {r: 0.8867924, g: 0.10457456, b: 0.10457456, a: 1}
+    shadowColor: {r: 0.6792453, g: 0.11294803, b: 0.048059803, a: 1}
+  - materialId: 13
+    color: {r: 0.9245283, g: 0.4606908, b: 0.09158063, a: 1}
+    shadowColor: {r: 0.8773585, g: 0.2838105, b: 0, a: 1}
+  - materialId: 5
+    color: {r: 0.99607843, g: 0.65882355, b: 1, a: 1}
+    shadowColor: {r: 0.92763263, g: 0.383277, b: 0.9339623, a: 1}
+  - materialId: 9
+    color: {r: 0.7264151, g: 0.3870691, b: 0.25698647, a: 1}
+    shadowColor: {r: 0.41509432, g: 0.1950251, b: 0.064613745, a: 1}
+  - materialId: 2
+    color: {r: 1, g: 0.7320574, b: 0, a: 1}
+    shadowColor: {r: 0.8396226, g: 0.5042316, b: 0.099012084, a: 1}
+  - materialId: 6
+    color: {r: 0.8584906, g: 0.8081335, b: 0.11743506, a: 1}
+    shadowColor: {r: 0.745283, g: 0.61738217, b: 0.116011046, a: 1}
+  - materialId: 4
+    color: {r: 0.5137255, g: 0.24705882, b: 0.15294118, a: 1}
+    shadowColor: {r: 0.3679245, g: 0.120352656, b: 0.03297436, a: 1}
+  - materialId: 7
+    color: {r: 1, g: 0.28627452, b: 0.7019608, a: 1}
+    shadowColor: {r: 0.764151, g: 0.032440357, b: 0.45860142, a: 1}
+  - materialId: 8
+    color: {r: 0.035679776, g: 0.6117647, b: 0, a: 1}
+    shadowColor: {r: 0, g: 0.3962264, b: 0.11632332, a: 1}
+  - materialId: 3
+    color: {r: 0.124505185, g: 0.8679245, b: 0.09416164, a: 1}
+    shadowColor: {r: 0.31489027, g: 0.5849056, b: 0.251068, a: 1}
+  - materialId: 10
+    color: {r: 0.09825563, g: 0.8771638, b: 0.9056604, a: 1}
+    shadowColor: {r: 0, g: 0.398758, b: 0.5377358, a: 1}
+  - materialId: 11
+    color: {r: 0, g: 0.6117647, b: 0.6784314, a: 1}
+    shadowColor: {r: 0.03551086, g: 0.34440142, b: 0.3584906, a: 1}
+  - materialId: 12
+    color: {r: 0.125534, g: 0.41296777, b: 0.8584906, a: 1}
+    shadowColor: {r: 0.047058824, g: 0.19073553, b: 0.7529412, a: 1}
+  - materialId: 1
+    color: {r: 0.10234961, g: 0.6099416, b: 0.9433962, a: 1}
+    shadowColor: {r: 0.03123886, g: 0.333, b: 0.735849, a: 1}
+  - materialId: 14
+    color: {r: 0.5019608, g: 0, b: 0.99607843, a: 1}
+    shadowColor: {r: 0.3442395, g: 0.08957815, b: 0.5754717, a: 1}
+  - materialId: 15
+    color: {r: 0.34872732, g: 0.19958171, b: 0.6509434, a: 1}
+    shadowColor: {r: 0.17637226, g: 0.115521535, b: 0.41509432, a: 1}
+  - materialId: 16
+    color: {r: 0.8962264, g: 0.28324133, b: 0.6464918, a: 1}
+    shadowColor: {r: 0.6132076, g: 0.14173195, b: 0.42112496, a: 1}
+  - materialId: 17
+    color: {r: 0.9056604, g: 0.68778926, b: 0.8297356, a: 1}
+    shadowColor: {r: 0.6886792, g: 0.30210927, b: 0.45364642, a: 1}
+  - materialId: 18
+    color: {r: 0.87602353, g: 0.9456795, b: 0.9622642, a: 1}
+    shadowColor: {r: 0.62745106, g: 0.77647066, b: 0.8509805, a: 1}
+  - materialId: 19
+    color: {r: 0.13950695, g: 0.1419906, b: 0.1792453, a: 1}
+    shadowColor: {r: 0.094962634, g: 0.11312144, b: 0.20754719, a: 1}
+  - materialId: 20
+    color: {r: 0.007843138, g: 0.22352941, b: 0.078431375, a: 1}
+    shadowColor: {r: 0.05490196, g: 0.27450982, b: 0.10980392, a: 1}
+  - materialId: 21
+    color: {r: 0.654902, g: 0.12156863, b: 0.12941177, a: 1}
+    shadowColor: {r: 0.50980395, g: 0.15686275, b: 0.16078432, a: 1}
+  - materialId: 22
+    color: {r: 0.82745105, g: 0.34509805, b: 0.08235294, a: 1}
+    shadowColor: {r: 0.6117647, g: 0.21568629, b: 0, a: 1}
+  - materialId: 23
+    color: {r: 0.76862746, g: 0.56078434, b: 0.02745098, a: 1}
+    shadowColor: {r: 0.5176471, g: 0.3803922, b: 0.03137255, a: 1}
+  - materialId: 24
+    color: {r: 0.36078432, g: 0.18431373, b: 0.08235294, a: 0}
+    shadowColor: {r: 0.3019608, g: 0.14901961, b: 0.058823533, a: 0}
+  - materialId: 25
+    color: {r: 0.68235296, g: 0.5686275, b: 0.14117648, a: 1}
+    shadowColor: {r: 0.45098042, g: 0.36078432, b: 0.019607844, a: 1}
+  - materialId: 26
+    color: {r: 0.9803922, g: 0.5019608, b: 0.44705886, a: 0}
+    shadowColor: {r: 0.7843138, g: 0.32941177, b: 0.2784314, a: 0}
+  - materialId: 27
+    color: {r: 0.34509805, g: 0.37647063, b: 0.24705884, a: 1}
+    shadowColor: {r: 0.27058825, g: 0.30980393, b: 0.14117648, a: 1}
+  - materialId: 28
+    color: {r: 0.81568635, g: 1, b: 0.3529412, a: 1}
+    shadowColor: {r: 0.56078434, g: 0.67058825, b: 0.28627452, a: 1}
+  - materialId: 29
+    color: {r: 0, g: 0.49411768, b: 0.2627451, a: 1}
+    shadowColor: {r: 0.058823533, g: 0.34117648, b: 0.20784315, a: 1}
+  - materialId: 30
+    color: {r: 0.09411766, g: 0.34509805, b: 0.5019608, a: 1}
+    shadowColor: {r: 0, g: 0.21960786, b: 0.35686275, a: 1}
+  - materialId: 31
+    color: {r: 0.08235294, g: 0.9607844, b: 0.64705884, a: 1}
+    shadowColor: {r: 0.14117648, g: 0.6313726, b: 0.454902, a: 1}
+  - materialId: 32
+    color: {r: 0.56078434, g: 0.6117647, b: 1, a: 1}
+    shadowColor: {r: 0.33333334, g: 0.37647063, b: 0.69803923, a: 1}
+  - materialId: 33
+    color: {r: 0.015686275, g: 0.015686275, b: 0.6784314, a: 1}
+    shadowColor: {r: 0, g: 0, b: 0.50980395, a: 1}
+  - materialId: 34
+    color: {r: 0.68235296, g: 0.427451, b: 1, a: 1}
+    shadowColor: {r: 0.46274513, g: 0.33333334, b: 0.62352943, a: 1}
+  - materialId: 35
+    color: {r: 0.57254905, g: 0.10588236, b: 0.6156863, a: 1}
+    shadowColor: {r: 0.4784314, g: 0.0627451, b: 0.5176471, a: 1}
+  - materialId: 36
+    color: {r: 0.76470596, g: 0.13333334, b: 0.94117653, a: 1}
+    shadowColor: {r: 0.6039216, g: 0.19215688, b: 0.7176471, a: 1}
+  - materialId: 37
+    color: {r: 0.47450984, g: 0.8941177, b: 1, a: 1}
+    shadowColor: {r: 0.34509805, g: 0.59607846, b: 0.65882355, a: 1}
+  - materialId: 38
+    color: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 0}
+    shadowColor: {r: 0.227451, g: 0.227451, b: 0.227451, a: 0}
+  - materialId: 39
+    color: {r: 0, g: 0.3372549, b: 0, a: 1}
+    shadowColor: {r: 0.121568635, g: 0.34901962, b: 0.121568635, a: 1}

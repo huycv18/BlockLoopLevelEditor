@@ -1,0 +1,623 @@
+{
+  "colorHexCodes": [],
+  "levelIndex": 102,
+  "passengerQueuesCount": 0,
+  "hasCurtainCovered": false,
+  "difficultyType": 0,
+  "passengersQueuesData": [],
+  "gridWidth": 7,
+  "gridHeight": 7,
+  "gridSlotsData": [
+    {
+      "coordinateX": 0,
+      "coordinateY": 0,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 0,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 0,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 0,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 0,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 5,
+      "coordinateY": 0,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 6,
+      "coordinateY": 0,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 1,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 1,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 1,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 1,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 1,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 5,
+      "coordinateY": 1,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 6,
+      "coordinateY": 1,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 2,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 2,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 2,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 2,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 2,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 5,
+      "coordinateY": 2,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 6,
+      "coordinateY": 2,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 3,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 3,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 3,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 3,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 3,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 5,
+      "coordinateY": 3,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 6,
+      "coordinateY": 3,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 4,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 4,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 4,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 4,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 4,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 5,
+      "coordinateY": 4,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 6,
+      "coordinateY": 4,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 5,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 5,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 5,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 5,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 5,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 5,
+      "coordinateY": 5,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 6,
+      "coordinateY": 5,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 6,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 6,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 6,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 6,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 6,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 5,
+      "coordinateY": 6,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 6,
+      "coordinateY": 6,
+      "gridSlotType": 3
+    }
+  ],
+  "vehiclesData": [
+    {
+      "entityColorType": 8,
+      "isHidden": false,
+      "coordinateX": 1,
+      "coordinateY": 0,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 35,
+      "isHidden": false,
+      "coordinateX": 3,
+      "coordinateY": 0,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 4,
+      "isHidden": false,
+      "coordinateX": 5,
+      "coordinateY": 0,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 33,
+      "isHidden": true,
+      "coordinateX": 3,
+      "coordinateY": 1,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 28,
+      "isHidden": true,
+      "coordinateX": 0,
+      "coordinateY": 2,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 21,
+      "isHidden": true,
+      "coordinateX": 1,
+      "coordinateY": 2,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 30,
+      "isHidden": false,
+      "coordinateX": 2,
+      "coordinateY": 2,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 28,
+      "isHidden": true,
+      "coordinateX": 3,
+      "coordinateY": 2,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 30,
+      "isHidden": false,
+      "coordinateX": 4,
+      "coordinateY": 2,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 23,
+      "isHidden": true,
+      "coordinateX": 5,
+      "coordinateY": 2,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 35,
+      "isHidden": true,
+      "coordinateX": 6,
+      "coordinateY": 2,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 30,
+      "isHidden": false,
+      "coordinateX": 0,
+      "coordinateY": 3,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 35,
+      "isHidden": false,
+      "coordinateX": 2,
+      "coordinateY": 3,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 23,
+      "isHidden": true,
+      "coordinateX": 3,
+      "coordinateY": 3,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 28,
+      "isHidden": false,
+      "coordinateX": 4,
+      "coordinateY": 3,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 13,
+      "isHidden": false,
+      "coordinateX": 6,
+      "coordinateY": 3,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 33,
+      "isHidden": false,
+      "coordinateX": 0,
+      "coordinateY": 4,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 23,
+      "isHidden": true,
+      "coordinateX": 2,
+      "coordinateY": 4,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 8,
+      "isHidden": true,
+      "coordinateX": 4,
+      "coordinateY": 4,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 8,
+      "isHidden": false,
+      "coordinateX": 6,
+      "coordinateY": 4,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 33,
+      "isHidden": false,
+      "coordinateX": 1,
+      "coordinateY": 5,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 8,
+      "isHidden": false,
+      "coordinateX": 2,
+      "coordinateY": 5,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 13,
+      "isHidden": false,
+      "coordinateX": 3,
+      "coordinateY": 5,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 30,
+      "isHidden": false,
+      "coordinateX": 4,
+      "coordinateY": 5,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 23,
+      "isHidden": false,
+      "coordinateX": 5,
+      "coordinateY": 5,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 5,
+      "isHidden": false,
+      "coordinateX": 3,
+      "coordinateY": 6,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    }
+  ],
+  "garagesData": [
+    {
+      "coordinateX": 1,
+      "coordinateY": 1,
+      "directionType": 0,
+      "carsData": [
+        {
+          "entityColorType": 4
+        },
+        {
+          "entityColorType": 8
+        },
+        {
+          "entityColorType": 28
+        },
+        {
+          "entityColorType": 5
+        }
+      ],
+      "collectToolGUID": 0
+    },
+    {
+      "coordinateX": 5,
+      "coordinateY": 1,
+      "directionType": 0,
+      "carsData": [
+        {
+          "entityColorType": 30
+        },
+        {
+          "entityColorType": 21
+        },
+        {
+          "entityColorType": 28
+        },
+        {
+          "entityColorType": 33
+        }
+      ],
+      "collectToolGUID": 0
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 6,
+      "directionType": 0,
+      "carsData": [
+        {
+          "entityColorType": 5
+        },
+        {
+          "entityColorType": 21
+        },
+        {
+          "entityColorType": 13
+        },
+        {
+          "entityColorType": 21
+        }
+      ],
+      "collectToolGUID": 0
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 6,
+      "directionType": 0,
+      "carsData": [
+        {
+          "entityColorType": 5
+        },
+        {
+          "entityColorType": 13
+        },
+        {
+          "entityColorType": 5
+        },
+        {
+          "entityColorType": 23
+        }
+      ],
+      "collectToolGUID": 0
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 5,
+      "directionType": 0,
+      "carsData": [
+        {
+          "entityColorType": 4
+        },
+        {
+          "entityColorType": 5
+        },
+        {
+          "entityColorType": 4
+        }
+      ],
+      "collectToolGUID": 0
+    },
+    {
+      "coordinateX": 6,
+      "coordinateY": 5,
+      "directionType": 0,
+      "carsData": [
+        {
+          "entityColorType": 33
+        },
+        {
+          "entityColorType": 35
+        },
+        {
+          "entityColorType": 21
+        }
+      ],
+      "collectToolGUID": 0
+    }
+  ],
+  "vehicleConnectionsData": [
+    {
+      "firstConnectedIndex": 14,
+      "secondConnectedIndex": 15
+    },
+    {
+      "firstConnectedIndex": 19,
+      "secondConnectedIndex": 20
+    },
+    {
+      "firstConnectedIndex": 38,
+      "secondConnectedIndex": 45
+    }
+  ]
+}

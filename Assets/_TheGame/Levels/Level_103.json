@@ -1,0 +1,383 @@
+{
+  "colorHexCodes": [],
+  "levelIndex": 103,
+  "passengerQueuesCount": 0,
+  "hasCurtainCovered": false,
+  "difficultyType": 0,
+  "passengersQueuesData": [],
+  "gridWidth": 5,
+  "gridHeight": 6,
+  "gridSlotsData": [
+    {
+      "coordinateX": 0,
+      "coordinateY": 0,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 0,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 0,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 0,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 0,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 1,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 1,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 1,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 1,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 1,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 2,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 2,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 2,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 2,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 2,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 3,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 3,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 3,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 3,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 3,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 4,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 4,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 4,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 4,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 4,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 5,
+      "gridSlotType": 3
+    },
+    {
+      "coordinateX": 1,
+      "coordinateY": 5,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 2,
+      "coordinateY": 5,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 3,
+      "coordinateY": 5,
+      "gridSlotType": 1
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 5,
+      "gridSlotType": 3
+    }
+  ],
+  "vehiclesData": [
+    {
+      "entityColorType": 3,
+      "isHidden": false,
+      "coordinateX": 1,
+      "coordinateY": 0,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 7,
+      "isHidden": false,
+      "coordinateX": 2,
+      "coordinateY": 0,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 3,
+      "isHidden": false,
+      "coordinateX": 3,
+      "coordinateY": 0,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 3,
+      "isHidden": true,
+      "coordinateX": 0,
+      "coordinateY": 1,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 21,
+      "isHidden": true,
+      "coordinateX": 1,
+      "coordinateY": 1,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 2,
+      "isHidden": true,
+      "coordinateX": 3,
+      "coordinateY": 1,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 7,
+      "isHidden": true,
+      "coordinateX": 4,
+      "coordinateY": 1,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 2,
+      "isHidden": true,
+      "coordinateX": 0,
+      "coordinateY": 2,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 2,
+      "isHidden": true,
+      "coordinateX": 1,
+      "coordinateY": 2,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 21,
+      "isHidden": false,
+      "coordinateX": 2,
+      "coordinateY": 2,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 21,
+      "isHidden": true,
+      "coordinateX": 4,
+      "coordinateY": 2,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 3,
+      "isHidden": false,
+      "coordinateX": 1,
+      "coordinateY": 3,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 2,
+      "isHidden": false,
+      "coordinateX": 3,
+      "coordinateY": 3,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 39,
+      "isHidden": false,
+      "coordinateX": 1,
+      "coordinateY": 4,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 21,
+      "isHidden": false,
+      "coordinateX": 3,
+      "coordinateY": 4,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 2,
+      "isHidden": true,
+      "coordinateX": 1,
+      "coordinateY": 5,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 7,
+      "isHidden": false,
+      "coordinateX": 2,
+      "coordinateY": 5,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    },
+    {
+      "entityColorType": 7,
+      "isHidden": true,
+      "coordinateX": 3,
+      "coordinateY": 5,
+      "hasIce": false,
+      "iceCount": 0,
+      "directionMode": 0
+    }
+  ],
+  "garagesData": [
+    {
+      "coordinateX": 2,
+      "coordinateY": 3,
+      "directionType": 0,
+      "carsData": [
+        {
+          "entityColorType": 39
+        },
+        {
+          "entityColorType": 7
+        },
+        {
+          "entityColorType": 3
+        }
+      ],
+      "collectToolGUID": 0
+    },
+    {
+      "coordinateX": 0,
+      "coordinateY": 4,
+      "directionType": 3,
+      "carsData": [
+        {
+          "entityColorType": 21
+        },
+        {
+          "entityColorType": 39
+        }
+      ],
+      "collectToolGUID": 0
+    },
+    {
+      "coordinateX": 4,
+      "coordinateY": 4,
+      "directionType": 2,
+      "carsData": [
+        {
+          "entityColorType": 39
+        },
+        {
+          "entityColorType": 21
+        }
+      ],
+      "collectToolGUID": 0
+    }
+  ],
+  "vehicleConnectionsData": [
+    {
+      "firstConnectedIndex": 5,
+      "secondConnectedIndex": 10
+    },
+    {
+      "firstConnectedIndex": 9,
+      "secondConnectedIndex": 14
+    }
+  ]
+}
